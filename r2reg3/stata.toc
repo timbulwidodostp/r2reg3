@@ -2,4 +2,4 @@
 1
 2
 3
-p robnova Calculates two robust ANOVA statistics, Welch's and Brown-Forsythe's Use robnova With STATA 19
+p r2reg3 (3SLS-SUR) (Three-stage least-squares regression-Seemingly unrelated regression) Overall System R2 - Adjusted R2 - F Test - Chi2 Test Use r2reg3 With STATA 19
