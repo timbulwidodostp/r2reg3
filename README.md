@@ -1,6 +1,10 @@
 # r2reg3
 (3SLS-SUR) (Three-stage least-squares regression-Seemingly unrelated regression) Overall System R2 - Adjusted R2 - F Test - Chi2 Test Use r2reg3 With STATA 19
 
+https://www.youtube.com/watch?v=9Kz0_lQJi6Y
+
+Olah Data Semarang
+
 WA: +6285227746673 (085227746673)
 
 Providing Statistical Analysis Data Processing Services Using
